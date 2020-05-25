@@ -1,0 +1,56 @@
+body {
+  background-image: url("earth.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1{
+  color:blue;
+  text-align: center;
+  font-family: Arial,sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  text-decoration: underline;
+  border: 10px solid black;
+  padding: 15px;
+  background: lightyellow;
+  background-clip: padding-box;
+
+}
+h2{
+  color:red;
+  text-align:front
+  font-family: Arial,sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+h3{
+  color:green;
+  text-align:front
+  font-family: Arial,sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+p{
+  font-family: Arial,sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  }
+  div {
+      width: 90%;
+      word-wrap: break-word;
+      font-family: Arial,sans-serif;
+      font-size: 28px;
+      font-weight: bold;
+}
+ul{
+  font-family: Arial,sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+ol{
+  font-family: Arial,sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
